@@ -21,7 +21,7 @@
     "vite-compatible-readable-stream": "3.6.0"
   },
   "peerDependencies": {
-    "@react-pdf/renderer": "^2.0.0",
+    "@react-pdf/renderer": "2.0.16",
     "vite": "^2.0.0"
   }
 }
